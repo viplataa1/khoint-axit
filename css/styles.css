@@ -265,6 +265,7 @@ nav ul.top-nav-menu li a:hover{
     font-size: 1rem;
     font-weight: 600;
     color: #212121;
+    margin-bottom: 10px;
 }
 .section-content .section-item{
     justify-content: flex-start;
@@ -316,6 +317,7 @@ nav ul.top-nav-menu li a:hover{
     text-transform: uppercase;
     position: relative;
     margin-bottom: 55px;
+    line-height: 1.2;
 }
 .process-top h2::after,
 .custom-section .section-content h2::after,
